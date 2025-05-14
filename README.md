@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=400px height=200px src="ibmdspres.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Winning The Space Race Using Data Science</h3>
